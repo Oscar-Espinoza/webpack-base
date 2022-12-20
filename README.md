@@ -1,2 +1,3 @@
-# Leaderboard
-Simple leaderboard app that shows a list of the recent scores and updates through a refresh button. Built with Javascript, HTML, CSS and Webpack.
+# webpack-base
+Base webpack project to fork, comes with html-template-plugin, css, sass, and style loader.
+comes width a webpack.config.js file already filled
